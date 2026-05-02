@@ -1,0 +1,8 @@
+{
+  "name": "Moja Aplikacja",
+  "short_name": "App",
+  "start_url": "https://adrian1811.github.io/mobywatell/mObywatel%202.0.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+}
